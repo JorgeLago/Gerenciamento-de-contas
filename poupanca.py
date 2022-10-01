@@ -14,4 +14,4 @@ class Poupanca:
 
     def depositar(self, valor):
         self.saldo += valor
-        print("Você depositou {} e seu novo saldo é {}.".format(valor, self.saldo))
+        print("Você efetuou um deposito de {} e seu novo saldo é {}.".format(valor, self.saldo))
