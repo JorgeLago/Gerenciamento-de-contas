@@ -7,6 +7,7 @@ Criar Objeto Secundário A : Conta Poupança;
 Finalizar primeira versão do projeto;
 Usar herança pra integrar as duas contas;
 Criar sistema pra herdar os dois objetivos e deixar interativo para o usuário;
+Iniciando interação com o usuário;
 
 
 
